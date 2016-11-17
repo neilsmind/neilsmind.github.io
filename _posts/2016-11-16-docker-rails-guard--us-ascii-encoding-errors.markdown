@@ -27,4 +27,23 @@ The solution is to explicitly set the LANG environment variable in your Dockerfi
 
 You can find the implementation of this in my [docker-ruby-app repository Dockerfile](https://github.com/neilsmind/docker-ruby-app/blob/master/Dockerfile#L10)
 
+Here's a sample:
+
+{% highlight docker %}
+# Dockerfile
+FROM ruby:2.3
+
+RUN apt-get update -qq && apt-get install -y \
+  build-essential \
+  cron \
+  imagemagick \
+  libpq-dev \
+  nodejs
+
+ENV LANG C.UTF-8 # <---- This is the important part
+
+RUN mkdir -p /app
+WORKDIR /app
+{% endhighlight %}
+
 Thanks to Jared Markell for his [article](http://jaredmarkell.com/docker-and-locales/) helping me figure this out
