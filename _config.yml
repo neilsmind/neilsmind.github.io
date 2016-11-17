@@ -28,6 +28,7 @@ disqus:
   shortname: neilsmind
 collections:
   - links
+google_analytics: UA-87626081-1
 
 # Build settings
 markdown: kramdown
