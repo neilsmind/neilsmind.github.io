@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Neil Giarratana is founder of Scorebrd Inc (creators of [Mylights](https://mylights.io))
+and President of [Lucidus Corporation](http://lucidus.net), an internet application development
+& hosting company. Giarratana has served on the boards of the Monadnock Economic Development
+Corporation, the Greater Keene Chamber of Commerce, and was a founder of the [Keene Young
+Professionals Network](http://stayworkplay.org/blog/keene-young-professionals-network/).
+He was named by [BusinessNH Magazine](https://www.facebook.com/BusinessNHMag/) as one of the
+"25 Leaders for the Future" and awarded Entrepreneur of the Year by the [Hannah Grimes Center for Entrepreneurship](http://hannahgrimes.org). He founded the
+[New England Adobe User Group](http://neaug.org) and speaks regularly at conferences
+throughout North America.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Prior to founding Lucidus, Neil led an award winning consulting team for Lockheed Martin that specialized in building prototype information portals for the CIA and other intelligence organizations.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+After eleven years in New Hampshire, he and his family returned to warmer temperatures (and a vibrant
+Washington, DC market) to open a new office for Lucidus in Leesburg, Virginia.
+
+Specialties: application architecture, website analysis and specification, application design, usability analysis, web business development, entrepreneurship
