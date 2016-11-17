@@ -24,6 +24,10 @@ url: "http://neilsmind.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: neilsmind
 github_username:  neilsmind
 timezone: America/New_York
+disqus:
+  shortname: neilsmind
+collections:
+  - links
 
 # Build settings
 markdown: kramdown
