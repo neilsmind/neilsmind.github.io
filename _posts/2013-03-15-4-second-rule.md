@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Is it true you have a four pass second rule?' (How to Teach Young Hockey Players to Pass)"
+title: "'Is it true you have a four pass second rule?' (How to teach young elite hockey players to pass)"
 date: 2013-03-15 17:44:04 -500
 categories: sports hockey passing team
 ---
